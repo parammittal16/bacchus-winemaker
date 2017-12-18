@@ -1,0 +1,10 @@
+{
+	"name"	:	"Momodora_2",
+	"exe"	:	"momodora2",
+	"type"	:	"dir",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"",
+	"winetricks"	:	"",
+	"version"	:	"041"
+}
