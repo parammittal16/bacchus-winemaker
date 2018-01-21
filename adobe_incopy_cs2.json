@@ -1,0 +1,11 @@
+{
+	"name"	:	"Adobe_InCopy_CS2",
+	"exe"	:	"InCopy",
+	"path"	:	"/drive_c/Program\ Files/Adobe/Adobe\ InCopy\ CS2",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"",
+	"winetricks"	:	"",
+	"version"	:	"CS2"
+}
