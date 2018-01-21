@@ -1,0 +1,11 @@
+{
+	"name"	:	"Adobe_InDesign_CS2",
+	"exe"	:	"InDesign",
+	"path"	:	"/drive_c/Program\ Files/Adobe/Adobe\ InDesign\ CS2",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"",
+	"winetricks"	:	"",
+	"version"	:	"CS2"
+}
