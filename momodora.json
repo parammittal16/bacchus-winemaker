@@ -1,0 +1,11 @@
+{
+	"name"	:	"Momodora",
+	"exe"	:	"momo1_v151",
+	"path"	:	"/drive_c/Program\ Files/Momo1_151/Momodora\ 1.51",
+	"type"	:	"dir",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"",
+	"winetricks"	:	"",
+	"version"	:	"151"
+}
