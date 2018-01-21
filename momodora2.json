@@ -1,6 +1,7 @@
 {
 	"name"	:	"Momodora_2",
 	"exe"	:	"momodora2",
+	"path"	:	"/drive_c/Program\ Files/momodora2_v041",
 	"type"	:	"dir",
 	"arch"	:	"win32",
 	"win"	:	"winxp",
