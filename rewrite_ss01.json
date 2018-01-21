@@ -1,0 +1,11 @@
+{
+	"name"	:	"Rewrite_SS01",
+	"exe"	:	"SiglusEngine",
+	"path"	:	"/drive_c/Program\ Files\ \(x86\)/Key/Rewrite_SS01",
+	"type"	:	"setup",
+	"arch"	:	"win64",
+	"win"	:	"winxp",
+	"locale"	:	"ja_JP",
+	"winetricks"	:	"takao corefonts d3dx9_36 ffdshow quartz vcrun6 dotnet40",
+	"version"	:	""
+}
