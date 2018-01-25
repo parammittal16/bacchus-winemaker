@@ -1,0 +1,11 @@
+{
+	"name"	:	"Adobe_Illustrator_CS2",
+	"exe"	:	"Illustrator",
+	"path"	:	"/drive_c/Program\ Files/Adobe/Adobe\ Illustrator\ CS2/Support\ Files/Contents/Windows",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"",
+	"winetricks"	:	"",
+	"version"	:	"CS2"
+}
