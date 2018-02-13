@@ -1,0 +1,11 @@
+{
+	"name"	:	"Rewrite_Plus",
+	"exe"	:	"SiglusEngine",
+	"path"	:	"/drive_c/Program\ Files/Key/Rewrite_PLUS",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"ja_JP",
+	"winetricks"	:	"takao corefonts d3dx9_36 ffdshow quartz vcrun6 dotnet40",
+	"version"	:	""
+}
