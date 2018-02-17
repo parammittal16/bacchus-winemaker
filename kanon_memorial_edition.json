@@ -1,0 +1,11 @@
+{
+	"name"	:	"Kanon_Memorial_Edition",
+	"exe"	:	"REALLIVE",
+	"path"	:	"/drive_c/KEY/KANON_ME_ALL",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"ja_JP",
+	"winetricks"	:	"takao corefonts d3dx9_36 ffdshow quartz vcrun6 dotnet40",
+	"version"	:	""
+}
