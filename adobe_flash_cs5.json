@@ -1,0 +1,11 @@
+{
+	"name"	:	"Adobe_Flash_CS5",
+	"exe"	:	"Flash",
+	"path"	:	"/drive_c/Program\ Files/Adobe/Adobe\ Flash\ CS5",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"win7",
+	"locale"	:	"",
+	"winetricks"	:	"msxml3 vcrun2008 vcrun2010 atmlib gdiplus allfonts",
+	"version"	:	"CS5"
+}
