@@ -1,0 +1,11 @@
+{
+	"name"	:	"Adobe_Photoshop_CS5_5",
+	"exe"	:	"Photoshop",
+	"path"	:	"/drive_c/Program\ Files/Adobe/Adobe\ Photoshop\ CS5.1",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"win7",
+	"locale"	:	"",
+	"winetricks"	:	"vcrun2013 vcrun2012 vcrun2010 vcrun2008 vcrun2005 msxml6 d3dx9 riched20 gdiplus",
+	"version"	:	"CS5.1"
+}
