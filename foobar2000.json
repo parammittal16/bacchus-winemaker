@@ -1,0 +1,11 @@
+{
+	"name"	:	"foobar2000",
+	"exe"	:	"foobar2000",
+	"path"	:	"/drive_c/Program\ Files/foobar2000",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"",
+	"winetricks"	:	"",
+	"version"	:	"1.3.17"
+}
