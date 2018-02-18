@@ -3,7 +3,11 @@ Presets for the Bacchus utility
 
 ## Contributing
 
-Please read the JSON section below for an explanation of what all of the fields mean and how they should be populated. If you choose to contribute I ask that you please also post your findings to the WineHQ AppDB. Not everyone is aware of or wants to use Bacchus, and they shouldn't be required to in order to benefit. That being said, please actually test your presets. Do not just copy something from WineHQ and assume it will work as intended.  
+Please read the JSON section below for an explanation of what all of the fields mean and how they should be populated. If you choose to contribute I ask that you please also post your findings to the WineHQ AppDB. Not everyone is aware of or wants to use Bacchus, and they shouldn't be required to in order to benefit. That being said, please actually test your presets. Do not just copy something from WineHQ and assume it will work as intended.
+
+Please do not contribute software whose sole goal is enabling some illegal act. Your contribution will be rejected and you will be prohibited from contributing in the future. For example, a preset for a BitTorrent client would be allowed since BitTorrent has legitimate uses outside of illegal file sharing. Something like LimeWire would not be allowed since its explicit goal is illegal file sharing. Those examples deal specifically with file sharing, however this rule applies to any other crime as well.
+
+Please keep all discussions and commit messages limited to what is relevant to the project.
 
 ## JSON
 
