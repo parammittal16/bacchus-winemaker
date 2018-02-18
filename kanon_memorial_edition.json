@@ -7,5 +7,5 @@
 	"win"	:	"winxp",
 	"locale"	:	"ja_JP",
 	"winetricks"	:	"takao corefonts d3dx9_36 ffdshow quartz vcrun6 dotnet40",
-	"version"	:	""
+	"version"	:	"Memorial Edition"
 }
