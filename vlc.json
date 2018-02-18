@@ -1,0 +1,11 @@
+{
+	"name"	:	"VLC",
+	"exe"	:	"vlc",
+	"path"	:	"/drive_c/Program\ Files/VideoLAN/VLC",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"",
+	"winetricks"	:	"",
+	"version"	:	"3.0.0"
+}
