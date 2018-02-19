@@ -1,0 +1,11 @@
+{
+	"name"	:	"Pretty_x_Cation_2",
+	"exe"	:	"PxC2",
+	"path"	:	"/drive_c/Program\ Files/hibiki\ works/ＰＲＥＴＴＹ×Ｃ∧ＴＩＯＮ２",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"ja_JP",
+	"winetricks"	:	"takao corefonts d3dx9_36 ffdshow quartz vcrun6 dotnet40",
+	"version"	:	""
+}
