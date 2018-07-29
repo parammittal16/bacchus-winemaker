@@ -1,0 +1,11 @@
+{
+	"name"	:	"qBittorrent-32bit",
+	"exe"	:	"qbittorrent",
+	"path"	:	"/drive_c/Program\ Files/qBittorrent",
+	"type"	:	"setup",
+	"arch"	:	"win32",
+	"win"	:	"winxp",
+	"locale"	:	"",
+	"winetricks"	:	"",
+	"version"	:	"4.1.1"
+}
